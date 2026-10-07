@@ -1,0 +1,6 @@
+{
+  "name": "RYK Fish Point - رحیم یار خان تازہ مچھلی",
+  "description": "رحیم یار خان میں تازہ میٹھے اور سمندری پانی کی مچھلی کی ہوم ڈلیوری سروس۔ لائیو آرڈر ٹریکنگ اور ایڈمن پینل۔",
+  "requestFramePermissions": ["geolocation"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
